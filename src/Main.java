@@ -8,7 +8,7 @@ public class Main {
     capitalCities.put("Austria", "Wien");
     capitalCities.put("Norway", "Oslo");
     capitalCities.put("Norway", "Oslo"); // Duplicate
-    capitalCities.put("USA", "Washington DC");
+    capitalCities.put("Brazil", "Brasilia DF");
 
     System.out.println(capitalCities);
   }
